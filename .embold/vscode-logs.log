@@ -1,0 +1,26 @@
+2025-03-24 10:27:31 info: Congratulations, your extension "Embold" is now active!
+2025-03-24 10:27:31 info: tempDirectory : c:\Users\USER\.vscode\extensions\embold-vscode.embold-0.1.9\temp
+2025-03-24 10:27:33 info: Extraction complete for source: c:\Users\USER\.vscode\extensions\embold-vscode.embold-0.1.9\resources\embold-scanner-archive.zip, destination: c:\Users\USER\.vscode\extensions\embold-vscode.embold-0.1.9\temp
+2025-03-24 10:27:33 info: Extension installed on machine OS : win32
+2025-03-24 10:27:33 info: Fetched the issues from DB
+2025-03-24 10:27:34 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2025-03-24 10:27:34 info: Current installed embold extension version : 0.1.9
+2025-03-24 10:27:34 info: Latest embold extension version on marketplace : 0.1.6
+2025-03-24 10:27:34 info: Row(s) deleted
+2025-03-24 10:27:35 info: Java version installed on machine : 
+openjdk version "17.0.14" 2025-01-21 LTS
+OpenJDK Runtime Environment Microsoft-10800295 (build 17.0.14+7-LTS)
+OpenJDK 64-Bit Server VM Microsoft-10800295 (build 17.0.14+7-LTS, mixed mode, sharing)
+
+2025-03-24 10:27:35 info: Java installed on machine.
+2025-03-24 10:30:52 info: Row(s) deleted
+2025-03-24 10:34:29 info: Row(s) deleted
+2025-03-24 10:38:23 info: Row(s) deleted
+2025-03-24 10:42:33 info: Row(s) deleted
+2025-03-24 10:59:25 info: Row(s) deleted
+2025-03-24 11:04:54 info: Row(s) deleted
+2025-03-24 11:05:02 info: Row(s) deleted
+2025-03-24 11:05:28 info: Row(s) deleted
+2025-03-24 11:06:39 info: Row(s) deleted
+2025-03-24 11:07:23 info: Row(s) deleted
+2025-03-24 11:12:37 info: Row(s) deleted
